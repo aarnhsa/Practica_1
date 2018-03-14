@@ -1,1 +1,2 @@
-# practica1_fdp
+# Práctica 1
+Práctica sobre conceptos básicos de programación
